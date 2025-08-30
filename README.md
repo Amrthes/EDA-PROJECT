@@ -1,9 +1,8 @@
-# Main Heading Product Data Analysis – Price & Weight Changes 
+# Product Data Analysis – Price & Weight Changes 📅
 
-## Subheading Overview
+# Overview
 
-This project analyzes a dataset of 100 products to study price and weight changes over time. By comparing the "before" and "after" values, we identify trends, calculate differences, and uncover patterns in product pricing and packaging. The insights gained help in understanding how product prices and weights evolve, and they can be used for business strategy, cost analysis, or inventory management.
-Dataset
+This project performs data analysis on a dataset related to product sizes and prices using Pandas. It covers basic data cleaning, exploratory data analysis (EDA), statistical analysis, feature engineering, and SQL simulation in Pandas.
 
 File Name: product_100_rows.csv
 
