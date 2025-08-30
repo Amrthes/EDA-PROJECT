@@ -19,6 +19,7 @@ Calculated absolute and percentage changes in price to measure how product prici
 
 Identified products with significant price increases and decreases to understand pricing trends.
 
+
 <img width="675" height="538" alt="image" src="https://github.com/user-attachments/assets/4e3639f1-161b-420b-a34b-58c3bc0e3e39" />
 
 3. Weight Analysis
@@ -26,6 +27,8 @@ Identified products with significant price increases and decreases to understand
 Calculated absolute and percentage changes in weight to analyze how the packaging of products evolved.
 
 Identified products with the largest weight drops to uncover potential shrinkflation (products with reduced size without a corresponding price decrease).
+
+
 <img width="673" height="534" alt="image" src="https://github.com/user-attachments/assets/778abb5a-6c3d-45c8-82e6-7c8f06b03e53" />
 
 4. Shrinkflation Detection
